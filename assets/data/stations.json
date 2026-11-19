@@ -1,0 +1,50 @@
+[
+  {
+    "frequency": 108.5,
+    "url": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+    "image": "images/Violino.png",
+    "name": "Classical Music"
+  },
+  {
+    "frequency": 90.5,
+    "url": "https://icecast.omroep.nl/radio2-bb-mp3",
+    "image": "images/speak-radio.png",
+    "name": "NPO Radio 2"
+  },
+   {
+    "frequency": 97.1,
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+    "image": "images/pop.png",
+    "name": "NPO Radio 2"
+  },
+    {
+    "frequency": 94.1,
+    "url": "http://strm112.1.fm/samba_mobile_mp3",
+    "image": "images/brasil-samba.png",
+    "name": "Brasil Radio"
+  },
+  {
+    "frequency": 102.3,
+    "url": "https://icecast.omroep.nl/3fm-bb-mp3",
+    "image": "images/hiphop.png",
+    "name": "NPO 3FM"
+  },
+  {
+    "frequency": 106.7,
+    "url": "https://icecast.omroep.nl/radio4-bb-mp3",
+    "image": "images/classical.png",
+    "name": "NPO Klassiek"
+  },
+  {
+    "frequency": 112.2,
+    "url": "https://icestreaming.rai.it/13.mp3",
+    "image": "images/radio-italiana.png",
+    "name": "Radio Italiana"
+  },
+  {
+    "frequency": 118.2,
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR22_s01AAC.aac",
+    "image": "images/jazz.png",
+    "name": "Piano Guitar Jazz"
+  }
+]
